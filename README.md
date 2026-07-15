@@ -75,4 +75,4 @@ Join our Discord server:
 
 ## License
 
-See the LICENSE file for more information.
+See the LICENSE file for more information...
