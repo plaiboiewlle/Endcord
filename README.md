@@ -6,7 +6,7 @@
 
 Enhance your Discord experience with powerful plugins, themes, and privacy-focused features.
 
-[Website](https://endcord.com/) •
+[Website](https://endcord.com/) -
 [Discord Server](https://discord.gg/VC6zmXzq34)
 
 </div>
